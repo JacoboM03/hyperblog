@@ -1,6 +1,6 @@
 body
 {
-    background: #3e4d97;
+    background: #1f1f1f;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -53,7 +53,7 @@ body
 
 #fooder
 {
-    background : #777;
+    background : rgb(121, 6, 6);
     color:white;
     text-align: center; 
     padding: 0.5em;  
