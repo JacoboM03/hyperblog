@@ -51,9 +51,9 @@ body
     padding: 1em;
 }
 
-#fooder
+#footer
 {
-    background : rgb(121, 6, 6);
+    background : #37488b;
     color:white;
     text-align: center; 
     padding: 0.5em;  
